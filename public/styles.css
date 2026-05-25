@@ -880,7 +880,8 @@ h1, h2, h3, h4 {
   align-items: flex-start;
 }
 
-.quiz-result.visible {
+.quiz-result.visible,
+.quiz-result.active {
   display: flex;
 }
 
